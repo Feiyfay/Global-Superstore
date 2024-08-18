@@ -55,7 +55,36 @@ b. For each of these three countries, the three products with the highest total 
 
 ### Problem Statement 2:
 a. The 3 subcategories with the highest average shipping cost in the United States
+1. Copiers - $165
+2. Machines - $132
+3. Tables - $70
 
+### Problem Statement 3:
+a. Nigeria’s profitability (i.e., total profit) for 2014 and how it compare to other African countries
+- Nigeria was the least profitable country in 2014 among the African countries with a loss of $23,285
+
+b. Factors responsible for Nigeria’s poor performance (an investigation into shipping costs and the average discount as potential root causes).
+- The total shipping cost for Nigeria is $1,518 and the Average Discount is $1($0.7)
+- Nigeria has a high shipping cost compared to a majority of the other African countries and among the 4 countries giving a discount in Africa.
+  
+### Problem Statement 4:
+a. Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
+
+
+
+b. Is there a specific country i n Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
+
+
+### Problem Statement 5: 
+a. Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. 
+b. Why is this city’s average profit so low?
+
+
+### Problem Statement 6: 
+a. Which product subcategory has the highest average profit in Australia?
+
+### Problem Statement 7:
+a. Who are the most valuable customers and what do they purchase?
 
 
 
