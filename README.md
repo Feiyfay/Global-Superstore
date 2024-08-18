@@ -33,50 +33,85 @@ performance and profitability
 ## Analysis:
 ### Problem Statement 1:
 a. The 3 Countries that Generated the Highest Total Profit for Global Superstore in 2014
-1. United States  $93,508
-2. India $48,808 and
-3. China $46,794 respectfully.
+
+_1. United States  $93,508_
+
+_2. India $48,808 and_
+
+_3. China $46,794 respectfully._
 
 b. For each of these three countries, the three products with the highest total profit (products’ names and the total profit for each product).
 **United States:**
-1. Canon imageCLASS 2200 Advanced Copier - $ 15,680
-2. Hewlett Packard LaserJet 3310 Copier - $ 3,624
-3. GBC DocuBind TL300 Electric Binding System - $ 1,911
+
+_1. Canon imageCLASS 2200 Advanced Copier - $ 15,680_
+
+_2. Hewlett Packard LaserJet 3310 Copier - $ 3,624_
+
+_3. GBC DocuBind TL300 Electric Binding System - $ 1,911_
 
 **India:**
-1. Sauder Classic Bookcase, Traditional - $ 2,420
-2. Cisco Smart Phone, with Caller ID - $ 1,609
-3. Hamilton Beach Refrigerator, Red - $ 1,440
+
+_1. Sauder Classic Bookcase, Traditional - $ 2,420_
+
+_2. Cisco Smart Phone, with Caller ID - $ 1,609_
+
+_3. Hamilton Beach Refrigerator, Red - $ 1,440_
 
 **China:**
-1. Sauder Classic Bookcase, Metal - $ 1,463
-2. Bush Classic Bookcase, Mobile - $ 1,221
-3. HP Copy Machine, Color - $ 1,196
+
+_1. Sauder Classic Bookcase, Metal - $ 1,463_
+
+_2. Bush Classic Bookcase, Mobile - $ 1,221_
+
+_3. HP Copy Machine, Color - $ 1,196_
 
 ### Problem Statement 2:
 a. The 3 subcategories with the highest average shipping cost in the United States
-1. Copiers - $165
-2. Machines - $132
-3. Tables - $70
+
+_1. Copiers - $165_
+
+_2. Machines - $132_
+
+_3. Tables - $70_
 
 ### Problem Statement 3:
 a. Nigeria’s profitability (i.e., total profit) for 2014 and how it compare to other African countries
-- Nigeria was the least profitable country in 2014 among the African countries with a loss of $23,285
+
+_- Nigeria was the least profitable country in 2014 among the African countries with a loss of $23,285_
 
 b. Factors responsible for Nigeria’s poor performance (an investigation into shipping costs and the average discount as potential root causes).
-- The total shipping cost for Nigeria is $1,518 and the Average Discount is $1($0.7)
-- Nigeria has a high shipping cost compared to a majority of the other African countries and among the 4 countries giving a discount in Africa.
+
+_- The total shipping cost for Nigeria is $1,518 and the Average Discount is $1($0.7)_
+
+_- Nigeria has a high shipping cost compared to a majority of the other African countries and among the 4 countries giving a discount in Africa._
   
 ### Problem Statement 4:
-a. Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
+a. The product subcategory that is the least profitable in Southeast Asia. (Assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam).
 
+_- Tables with a loss of $18618_
 
+b. Specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a.
 
-b. Is there a specific country i n Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
+_- Several Southeast Asian countries should discontinue the sale of tables as they incur losses. 
+
+_- The countries are as follows with the loss amount:_
+
+_1. Indonesia - $ 10,680_
+
+_2. Thailand - $ 3,188_
+
+_3. Phillippines - $ 3,151_
+
+_4. Myanmar (Burma) - $ 1603_
+
+_5. Vietnam - $ 1,523_
+
 
 
 ### Problem Statement 5: 
 a. Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. 
+
+
 b. Why is this city’s average profit so low?
 
 
