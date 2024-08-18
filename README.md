@@ -92,7 +92,7 @@ _- Tables with a loss of $18618_
 
 b. Specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a.
 
-_- Several Southeast Asian countries should discontinue the sale of tables as they incur losses. 
+_- Several Southeast Asian countries should discontinue the sale of tables as they incur losses._
 
 _- The countries are as follows with the loss amount:_
 
