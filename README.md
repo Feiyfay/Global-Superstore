@@ -53,8 +53,8 @@ b. For each of these three countries, the three products with the highest total 
 2. Bush Classic Bookcase, Mobile - $ 1,221
 3. HP Copy Machine, Color - $ 1,196
 
-
-
+### Problem Statement 2:
+a. The 3 subcategories with the highest average shipping cost in the United States
 
 
 
