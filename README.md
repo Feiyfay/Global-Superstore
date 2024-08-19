@@ -1,8 +1,5 @@
 # Global-Superstore
 
-![]()
-
-
 ![Global_Superstore_introduction1](https://github.com/user-attachments/assets/010767ee-eb28-414d-bd1b-bf1ee8babc20)
 
 ---
@@ -29,7 +26,8 @@ performance and profitability
 ---
 
 ## Dashboard:
-![]()
+
+![Global_Superstore_Dashboard](https://github.com/user-attachments/assets/fa122469-802f-4f0f-b640-64344c42fdcf)
 
 ---
 
