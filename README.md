@@ -2,6 +2,9 @@
 
 ![]()
 
+
+![Global_Superstore_introduction1](https://github.com/user-attachments/assets/010767ee-eb28-414d-bd1b-bf1ee8babc20)
+
 ---
 
 ## Introduction:
